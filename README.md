@@ -1,6 +1,6 @@
 # 👋 Hola, soy Cristian Peligros 💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A66C2&lines=Web+Developer;Java+%7C+HTML+%7C+CSS;Construyendo+interfaces+y+backend)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;Java+%7C+HTML+%7C+CSS;Construyendo+interfaces+y+backend)
 
 ---
 
@@ -23,31 +23,25 @@
 
 ### ⚙️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kenyZ-ll&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=kenyZ-ll&theme=default&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyZ-ll&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Actividad
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenyZ-ll&theme=github-light)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night)
 
----
-
-## 🏆 Logros
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kenyZ-ll&theme=flat&no-frame=true)
- 
 ---
 
 ## 🧪 Proyectos Web
@@ -60,7 +54,7 @@
 
 ## 🐍 Snake Contributions
 
-![snake gif](https://github.com/kenyZ-ll//blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
