@@ -30,23 +30,23 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=kenyZ-ll&show_icons=true&theme=default&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=default&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=kenyZ-ll&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyZ-ll&layout=compact&theme=default&hide_border=true)
 
 ---
 
 ## 📈 Actividad
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-light)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenyZ-ll&theme=github-light)
 
 ---
 
 ## 🏆 Logros
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=flat&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kenyZ-ll&theme=flat&no-frame=true)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ## 🐍 Snake Contributions
 
-![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kenyZ-ll//blob/output/github-contribution-grid-snake.svg)
 
 ---
 
