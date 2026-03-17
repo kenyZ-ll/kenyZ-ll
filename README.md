@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=kenyZ-ll&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=kenyZ-ll&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyZ-ll&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 🐍 Snake Contributions
 
-![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kenyZ-ll/kenyZ-ll/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
