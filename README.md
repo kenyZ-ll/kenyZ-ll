@@ -40,7 +40,7 @@
 
 ## 📈 Actividad
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenyZ-ll&theme=tokyo-night)
 
 ---
 
