@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/cristian-peligros-63513738a/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:cpd.donpeligros@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
