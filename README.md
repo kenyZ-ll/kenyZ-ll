@@ -1,68 +1,64 @@
-# 👋 Hola, soy Cristian Peligros 💻
+<h1 align="center">Cristian Peligros</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Web+Developer;Java+%7C+HTML+%7C+CSS;Construyendo+interfaces+y+backend)
+<p align="center">
+  Desarrollador Web · Backend con Java<br>
+  Madrid, España
+</p>
 
----
-
-## 🚀 Sobre mí
-💻 Desarrollador web en crecimiento  
-☕ Enfocado en **Java + Backend + Web**  
-🎨 Me gusta crear interfaces limpias con HTML & CSS  
-⚡ Aprendiendo cada día algo nuevo  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://github.com/kenyZ-ll"><img src="https://img.shields.io/badge/GitHub-kenyZ--ll-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contacto-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-### ⚙️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## Perfil
+
+Desarrollador enfocado en backend con Java y en interfaces web limpias y funcionales. Cursando Desarrollo de Aplicaciones Web (DAW), con experiencia previa en soporte y mantenimiento informático. Me interesa el código claro, mantenible y bien estructurado.
 
 ---
 
-## 📊 GitHub Stats
+## Stack técnico
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kenyZ-ll&show_icons=true&theme=tokyonight&hide_border=true)
+**Lenguajes**
 
-![Streak](https://streak-stats.demolab.com/?user=kenyZ-ll&theme=tokyonight&hide_border=true)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyZ-ll&layout=compact&theme=tokyonight&hide_border=true)
+**Herramientas y entornos**
 
----
-
-## 📈 Actividad
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kenyZ-ll&theme=tokyo-night)
-
----
-
-## 🧪 Proyectos Web
-
-- 🌐 Página web responsive – HTML + CSS  
-- ☕ Backend en Java – APIs o lógica de servidor  
-- 🎨 Landing pages – diseño limpio y moderno  
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## 🐍 Snake Contributions
+## Áreas de trabajo
 
-![snake gif](https://github.com/kenyZ-ll/kenyZ-ll/blob/output/github-contribution-grid-snake.svg)
+- **Backend:** APIs y lógica de servidor con Java
+- **Frontend:** sitios responsive y landing pages con HTML y CSS
+- **Datos:** modelado y consultas con SQL
 
 ---
 
-## ☕ Código diario
+## Proyectos destacados
 
-```java
-while(true){
-    code();
-    learn();
-    improve();
-}
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Nombre del proyecto](https://github.com/kenyZ-ll/repo) | Breve descripción de qué resuelve | Java, SQL |
+| [Nombre del proyecto](https://github.com/kenyZ-ll/repo) | Breve descripción de qué resuelve | HTML, CSS, JavaScript |
+
+---
+
+## Estadísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kenyZ-ll&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyZ-ll&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Lenguajes principales">
+</p>
